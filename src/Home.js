@@ -24,6 +24,9 @@ function Home() {
       <NavBar />
       
       {/* Responsive sections */}
+
+
+      
       <Banner />
       <Skills />
       <Projects />
