@@ -29,7 +29,7 @@
     "react-on-screen": "^2.1.1",
     "react-redux": "^9.1.2",
     "react-responsive-carousel": "^3.2.23",
-    "react-router-dom": "^6.3.0",
+    "react-router-dom": "^6.27.0",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.0",
@@ -39,16 +39,14 @@
     "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4"
   },
- "scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
-,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -70,9 +68,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "gh-pages": "^6.2.0",
-
-
-
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14"
   }
