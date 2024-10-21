@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Venky-Portfolio/static/css/main.a4ea41d8.css",
-    "main.js": "/Venky-Portfolio/static/js/main.1b876d80.js",
+    "main.css": "/Venky-Portfolio/static/css/main.ba7e2697.css",
+    "main.js": "/Venky-Portfolio/static/js/main.4fa85eb6.js",
     "static/media/sports_bike.glb": "/Venky-Portfolio/static/media/sports_bike.2016a7d81dada1c6ff14.glb",
     "static/media/nissan_skyline_r35_gtr_nismo._free.glb": "/Venky-Portfolio/static/media/nissan_skyline_r35_gtr_nismo._free.98e4c6ea6269016f1bf2.glb",
     "static/media/lamborghini_sian_fkp_37_custom.glb": "/Venky-Portfolio/static/media/lamborghini_sian_fkp_37_custom.25dcedb66a0ad81ea0dd.glb",
@@ -47,11 +47,11 @@
     "static/media/html-1.svg": "/Venky-Portfolio/static/media/html-1.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/hibernate.svg": "/Venky-Portfolio/static/media/hibernate.3ba27e0b6fd7445e70b782fe6cb5aed4.svg",
     "static/media/material-ui-1.svg": "/Venky-Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
-    "main.a4ea41d8.css.map": "/Venky-Portfolio/static/css/main.a4ea41d8.css.map",
-    "main.1b876d80.js.map": "/Venky-Portfolio/static/js/main.1b876d80.js.map"
+    "main.ba7e2697.css.map": "/Venky-Portfolio/static/css/main.ba7e2697.css.map",
+    "main.4fa85eb6.js.map": "/Venky-Portfolio/static/js/main.4fa85eb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4ea41d8.css",
-    "static/js/main.1b876d80.js"
+    "static/css/main.ba7e2697.css",
+    "static/js/main.4fa85eb6.js"
   ]
 }
